@@ -1,0 +1,10 @@
+{
+	"c snippets":
+	{
+		"prefix" : "qscanf",
+				"body" : [
+					"scanf(\"%$0\",);"	
+				],
+						"description" : "scanf for c"
+	}	
+}

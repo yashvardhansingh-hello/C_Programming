@@ -1,0 +1,17 @@
+{
+	"c snippets":
+	{
+		"prefix" : "q basic c template",
+				"body" : [
+					"#include<stdio.h>",
+					"",
+					"void main(){",
+					"    $0",
+					"}"
+
+				],
+							"description" : "to produce the main snippet for cpp"
+	}
+
+
+}

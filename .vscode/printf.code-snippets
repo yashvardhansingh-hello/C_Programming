@@ -1,0 +1,10 @@
+{
+	"c snippets":
+	{
+		"prefix" : "qprintf",
+				"body" : [
+					"printf(\"$0\");"	
+				],
+						"description" : "printf for c"
+	}	
+}
