@@ -4,6 +4,7 @@
 		"prefix" : "q basic c template",
 				"body" : [
 					"#include<stdio.h>",
+					"#include<stdlib.h>",
 					"",
 					"void main(){",
 					"    $0",
